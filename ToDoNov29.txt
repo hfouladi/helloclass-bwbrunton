@@ -1,0 +1,9 @@
+To Do List as of Nov 29 2016
+
+Cooper needs to:
+-determine loaner laptop availability
+-practice installing Python/GitHub for MacOS, Windows
+-learn how to code in Python
+
+Bing is going to:
+-reach out to GitHub and other teachers about submitting HW in GitHub
