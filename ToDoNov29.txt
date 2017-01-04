@@ -1,7 +1,7 @@
 To Do List as of Nov 29 2016
 
 Cooper needs to:
--determine loaner laptop availability
+(DONE) determine loaner laptop availability
 -practice installing Python/GitHub for MacOS, Windows
 -learn how to code in Python
 
