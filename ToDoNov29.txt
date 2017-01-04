@@ -8,4 +8,4 @@ Cooper needs to:
 Bing is going to:
 -reach out to GitHub and other teachers about submitting HW in GitHub
 
-Create a branch practice loop
+loop wasn’t the correct term. Need to make a branch/commit/pull exercise
