@@ -2,7 +2,7 @@ To Do List as of Nov 29 2016
 
 Cooper needs to:
 (DONE) determine loaner laptop availability
--practice installing Python/GitHub for MacOS, Windows
+-practice installing Python/GitHub for MacOS, Windows (not even close)
 -learn how to code in Python
 
 Bing is going to:
